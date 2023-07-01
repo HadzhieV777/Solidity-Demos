@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "ethers": "^6.6.2",
+    "nvm": "^0.0.4",
+    "solc": "0.8.7-fixed",
+    "truffle": "^5.10.1"
+  }
+}
